@@ -1,0 +1,16 @@
+com\example\demo\DemoApplication.class
+com\example\demo\mapper\TugasMapper.class
+com\example\demo\dto\http\HttpPagedModel.class
+com\example\demo\service\impljpa\TugasServiceJpaImpl.class
+com\example\demo\dto\http\HttpRespModel.class
+com\example\demo\service\TugasService.class
+com\example\demo\dto\TugasDto$TugasDtoBuilder.class
+com\example\demo\dao\TugasDao.class
+com\example\demo\constant\HeaderConstant.class
+com\example\demo\entity\TugasEntity$TugasEntityBuilder.class
+com\example\demo\constant\ErrorCode.class
+com\example\demo\controller\TugasController.class
+com\example\demo\dto\TugasDto.class
+com\example\demo\comparator\TugasSortDesc.class
+com\example\demo\entity\TugasEntity.class
+com\example\demo\dto\CustomException.class
